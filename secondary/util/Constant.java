@@ -9,9 +9,9 @@ import java.util.List;
 
 public class Constant {
     // 小组、学生等文件路径
-    public static final String FILE_PATH = "i:/starschool/classes/";
+    public static final String FILE_PATH = "C:\\Users\\lenovo\\Desktop\\java\\secondary\\entity";
     // 班级路径
-    public static String CLASS_PATH = "";
+    public static String CLASS_PATH = "C:\\Users\\lenovo\\Desktop\\java\\secondary\\entity";
     // 存放当前班级的小组和学生
     public static LinkedHashMap<Group, List<Student>> groups = new LinkedHashMap<>();
     // 存放当前班级的所有学生
